@@ -1,9 +1,15 @@
 This code book contains list of variables picked from the original dataset. 
 These variables have the word mean or std, hence this list is smaller than the original.
 
+There are total 81 variables in the dataset. Each of them described below:
+
+
 1	Subject - the id of the person the data was collected
-2	Activity - it is one of the activities performed by the subject, described in the 
-README.md The variables below  are the mean of velocities and accelerations collected  
+2	Activity - it is one of the activities performed by the subject. The activities are described in the 
+README.md.
+
+
+The below 79 variables below are the mean of velocities and accelerations collected  
 for each subject using Samsung smartphone.
 
 "tBodyAccmeanX"

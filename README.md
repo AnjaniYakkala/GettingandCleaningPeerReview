@@ -37,9 +37,13 @@ The following files are provided in GitHub:
 
 - CodeBook.txt
 
--R code used for creating the tidy dataset as per Quiz requirements
+- run_analysis.R (R code used for creating the tidy dataset as per Quiz requirements)
 
--Copy of Tidy dataset created using the R code
+- TidyData.txt (Copy of Tidy dataset created using the R code run_analysis.R)
+
+- Original Dataset files given in the Quiz{("features_info.txt" "features.txt"     
+  "Inertial Signals folder" "subject_test.txt"  "subject_train.txt"  "X_test.txt" 
+  "X_train.txt" "y_test.txt" "y_train.txt" )}
 
 
 
