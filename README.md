@@ -1,4 +1,3 @@
-==================================================================
 The dataset contains activity about 30 subjects. This data was recorded using smartphone (Samsung Galaxy II) on the waist. 
 There are total six activities that are recorded as follows:
 
